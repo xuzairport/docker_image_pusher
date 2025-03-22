@@ -1,2 +1,2 @@
 alpine:3.19.1
-infiniflow/ragflow
+infiniflow/ragflow:v0.17.2-slim
