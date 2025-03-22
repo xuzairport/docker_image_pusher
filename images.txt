@@ -1,3 +1,1 @@
-alpine
-pthon:Alpine3.19
 agflow:v0.17.2-slim
