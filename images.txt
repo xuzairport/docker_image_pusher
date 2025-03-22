@@ -1,1 +1,1 @@
-agflow:v0.17.2-slim
+infiniflow/ragflow:main
