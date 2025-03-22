@@ -1,3 +1,3 @@
 alpine
 pthon:Alpine3.19
-ragflow:v0.15.1
+ragflow:v0.15.1-slim
