@@ -1,1 +1,1 @@
-infiniflow/ragflow:main
+alpine:3.19.1
